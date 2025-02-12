@@ -1,15 +1,15 @@
 📊 Feature Analysis on churn_modeling.csv
 
-📝 Project Description:
+📝 **Project Description:**
 This project uses a logistic regression to see which features have an impact or importance on the target variable 'Exited' using Python. 
 The dataset churn_modeling contains features such as Surname, CreditScore, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary, and Exited (target variable).
 The Python script feature analysis code.py runs the model and visualizes the features that impact customer churn.
 
-About Dataset
-Description:
+**About Dataset
+Description:**
 This dataset contains information about bank customers and their churn status, which indicates whether they have exited the bank or not. It is suitable for exploring and analyzing factors influencing customer churn in banking institutions and for building predictive models to identify customers at risk of churning.
 
-Features:
+**Features:**
 RowNumber: The sequential number assigned to each row in the dataset.
 
 CustomerId: A unique identifier for each customer.
@@ -38,9 +38,9 @@ EstimatedSalary: The estimated salary of the customer.
 
 Exited: Indicates whether the customer has exited the bank (binary: yes/no).
 
-Usage:
+**Usage:**
 This dataset can be used for exploratory data analysis to understand the factors influencing customer churn in banks.
 It can also be used to build machine learning models for predicting customer churn based on the given features.
 
-License:
+**License:**
 This dataset is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
